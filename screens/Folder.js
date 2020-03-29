@@ -40,7 +40,7 @@ export default function Folder({ navigation, route }) {
                 renderItem={({ item }) => 
                     <TouchableOpacity
                         style={{backgroundColor: "red", borderWidth: 1, padding: 10, marginBottom: 5}}
-                        onPress={() => {}}
+                        onPress={() => {navigation.navigate("Monster", {name: item})}}
                     >
                         <Text style={{color: "white"}}>{item}</Text>
                     </TouchableOpacity>
