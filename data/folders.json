@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Realms",
+        "subfolders": ["Midgard", "Niflheim"],
+        "monsters": []
+    },
+    {
+        "name": "Midgard",
+        "subfolders": ["Rune-Midgard", "Schwartzwald", "Arunafeltz"],
+        "monsters": []
+    },
+    {
+        "name": "Niflheim",
+        "subfolders": [],
+        "monsters": ["Loli Ruri", "Disguise", "Lude", "Quve"]
+    },
+    {
+        "name": "Rune-Midgard",
+        "subfolders": ["Glast Heim", "Morroc", "Payon"],
+        "monsters": []
+    },
+    {
+        "name": "Schwartzwald",
+        "subfolders": ["Juno", "Einbech"],
+        "mobs": []
+    },
+    {
+        "name": "Arunafeltz",
+        "subfolders": ["Rachel", "Veins"],
+        "mobs": []
+    },
+    {
+        "name": "Glast Heim",
+        "subfolders": [],
+        "monsters": ["Wraith", "Evil Druid", "Dark Priest"]
+    },
+    {
+        "name": "Morroc",
+        "subfolders": ["Ant Hell"],
+        "monsters": ["Scorpion", "Metaller"]
+    },
+    {
+        "name": "Payon",
+        "subfolders": [],
+        "monsters": ["Sohee", "Munak", "Bongun"]
+    },
+    {
+        "name": "Juno",
+        "subfolders": [],
+        "monsters": ["Harpy", "Goat", "Grand Peco"]
+    },
+    {
+        "name": "Einbech",
+        "subfolders": [],
+        "monsters": ["Metaling", "Porcellio"]
+    },
+    {
+        "name": "Rachel",
+        "subfolders": [],
+        "monsters": ["Siroma, Kobold"]
+    },
+    {
+        "name": "Veins",
+        "subfolders": [],
+        "monsters": ["Magmaring"]
+    },
+    {
+        "name": "Ant Hell",
+        "subfolders": [],
+        "monsters": ["Andre", "Pierre", "Deniro"]
+    }
+]
